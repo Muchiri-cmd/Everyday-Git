@@ -1,2 +1,2 @@
-# GIt-Blog
+# Everyday-Git
 A blog about GIT
